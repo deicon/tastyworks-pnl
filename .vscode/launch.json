@@ -11,8 +11,8 @@
             "program": "tw-pnl.py",
             "console": "integratedTerminal",
             "args": [
-                "--assume-individual-stock","--usd","--output-csv=tasty-tax-2020.csv",
-                "-b","tasty.csv"
+                "--assume-individual-stock","--output-csv=tasty-tax-2020_4.csv",
+                "-b","tasty2021.csv"
             ]
         }
     ]
