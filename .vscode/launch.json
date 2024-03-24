@@ -4,6 +4,7 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+
         {
             "name": "Python: Current File",
             "type": "python",
@@ -11,7 +12,7 @@
             "program": "tw-pnl.py",
             "console": "integratedTerminal",
             "args": [
-                "--assume-individual-stock","--output-csv=tasty-tax-2020_4.csv",
+                "--assume-individual-stock","--output-excel=tasty-tax-2021.xlsx","--verbose",
                 "-b","tasty2021.csv"
             ]
         }
